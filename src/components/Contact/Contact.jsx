@@ -15,7 +15,7 @@ const Contact = () => {
                     <li></li>
                     <li></li>
                   </ul>
-                  <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr sed diam non eirmod tempor invidunt labore.</p>
+                  <p>I'm here to bring your vision to life.<br/> Reach out today to discuss how we can work together. <br/>Let's create something extraordinary.</p>
                 </div>
                 <div className="call_to_action_btn">
                   <a href="mailto:marawanmzaher@hotmail.com?Subject=Hi%20There" className="main-btn">HIRE ME</a>

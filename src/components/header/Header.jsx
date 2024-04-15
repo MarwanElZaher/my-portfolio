@@ -27,9 +27,9 @@ function Header() {
                                         <li className="nav-item">
                                             <a className="page-scroll" href="#about">About<span></span></a>
                                         </li>
-                                        <li className="nav-item">
+                                        {/* <li className="nav-item">
                                             <a className="page-scroll" href="#services">Services<span></span></a>
-                                        </li>
+                                        </li> */}
                                         {/* <li className="nav-item">
                                             <a className="page-scroll" href="#project">Portfolio<span></span></a>
                                         </li> */}

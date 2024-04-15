@@ -21,9 +21,9 @@ function App() {
       <section id='about' className='about_area pt-70 pb-120'>
         <About/>
       </section>
-      <section id='services' className='services_area pt-115 pb-120'>
+      {/* <section id='services' className='services_area pt-115 pb-120'>
         <Services/>
-      </section>
+      </section> */}
       {/* <section id='project' className='project_area pt-125'>
         <Project />
       </section> */}

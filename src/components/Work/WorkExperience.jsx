@@ -22,15 +22,20 @@ const WorkExperience = () => {
             <div className="col-lg-12">
               <div className="single_experience d-lg-flex align-items-center flex-wrap wow fadeIn" data-wow-duration="1.3s" data-wow-delay="0.2s">
                 <div className="experience_title order-last">
-                  <h3 className="title">Graphic Designer</h3>
-                  <p>PageBulb</p>
-                  <span className="date">March 2019- August 2024</span>
+                  <h3 className="title">Front-End Developer</h3>
+                  <p>Penta-b</p>
+                  <span className="date">May 2023</span>
                 </div>
                 <div className="experience_number">
                   <span>01</span>
                 </div>
                 <div className="experience_content order-first">
-                  <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr sedia magnaliquya ratsed diam Lorem ipsum dolor sit amconsetetur sadipscing elitr sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat sed diam.Lorem ipsum dolor sit ametconsete tur sadipscing elitr sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat sed diamLorem ipsum dolor consetetur sadipscing elitr sed diam nonumy diam... </p>
+                  <p>
+                    <li>Plugin Development Engineered custom plugins to enhance GIS application functionality.</li>
+                    <li>Responsive Design Designed layouts for optimal user experience across devices.</li>
+                    <li>Collaboration</li>
+                    <li>Worked closely with cross-functional teams for seamless integration.</li>
+                  </p>
                 </div>
               </div>
             </div>
@@ -39,15 +44,20 @@ const WorkExperience = () => {
             <div className="col-lg-12">
               <div className="single_experience d-lg-flex align-items-center flex-wrap wow fadeIn" data-wow-duration="1.3s" data-wow-delay="0.5s">
                 <div className="experience_title text-lg-right">
-                  <h3 className="title">UI/UX Designer</h3>
-                  <p>UIdeck</p>
-                  <span className="date">March 2019- August 2019</span>
+                  <h3 className="title">Accountant</h3>
+                  <h6>Note: During Military service</h6>
+                  <p> Egypt’s Future Project for Sustainable Agriculture </p>
+                  <span className="date"> May 2022- December 2022</span>
                 </div>
                 <div className="experience_number">
                   <span>02</span>
                 </div>
                 <div className="experience_content">
-                  <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr sedia magnaliquya ratsed diam Lorem ipsum dolor sit amconsetetur sadipscing elitr sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat sed diam.Lorem ipsum dolor sit ametconsete tur sadipscing elitr sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat sed diamLorem ipsum dolor consetetur sadipscing elitr sed diam nonumy diam... </p>
+                  <p>
+                    <li>Designed a website application to provide daily detailed reports to the Officers</li>
+                    <li>Creating financial reports</li>
+                    <li>Calculating Inventory</li>
+                  </p>
                 </div>
               </div>
             </div>
@@ -56,15 +66,53 @@ const WorkExperience = () => {
             <div className="col-lg-12">
               <div className="single_experience d-lg-flex align-items-center flex-wrap wow fadeIn" data-wow-duration="1.3s" data-wow-delay="0.8s">
                 <div className="experience_title order-last">
-                  <h3 className="title">Web Developer</h3>
-                  <p>GrayGrids</p>
-                  <span className="date">June 2018- August 2019</span>
+                  <h3 className="title">Concrete Site Manager</h3>
+                  <h6>Note: During Military service</h6>
+                  <p>Egyptian Army</p>
+                  <span className="date">December 2021- May 2022</span>
                 </div>
                 <div className="experience_number">
                   <span>03</span>
                 </div>
                 <div className="experience_content order-first">
-                  <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr sedia magnaliquya ratsed diam Lorem ipsum dolor sit amconsetetur sadipscing elitr sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat sed diam.Lorem ipsum dolor sit ametconsete tur sadipscing elitr sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat sed diamLorem ipsum dolor consetetur sadipscing elitr sed diam nonumy diam... </p>
+                  <p>
+                  <li>Checking and Preparing Financial Reports
+                  </li>
+                  <li>liaising with clients
+                    </li>
+                  <li>Buying materials for each phase of the project
+                    </li>
+                  <li>Monitoring build costs and project progress
+                    </li>
+                    
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div className="row">
+            <div className="col-lg-12">
+              <div className="single_experience d-lg-flex align-items-center flex-wrap wow fadeIn" data-wow-duration="1.3s" data-wow-delay="0.8s">
+                <div className="experience_title order-first">
+                  <h3 className="title">Teaching Assistant</h3>
+                  <p>Misr University for Science and Technology</p>
+                  <span className="date">September 2021- December 2021</span>
+                </div>
+                <div className="experience_number">
+                  <span>04</span>
+                </div>
+                <div className="experience_content order-last">
+                  <p>
+                  <li>Prepare classroom equipment and instructional materials for lessons.
+                  </li>
+                  <li>Perform recordkeeping duties associated with the classroom including attendance and grade calculation
+                    </li>
+                  <li>Instruct students in proper classroom procedures
+                    </li>
+                  <li>Adapt instructional materials as necessary to meet special education guidelines
+                    </li>
+                    
+                  </p>
                 </div>
               </div>
             </div>

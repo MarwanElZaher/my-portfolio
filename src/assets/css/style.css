@@ -810,7 +810,7 @@ p {
   font-size: 30px;
   font-weight: 600;
   color: #75589c;
-  letter-spacing: 4px; }
+  letter-spacing: 2px; }
   @media (max-width: 767px) {
     .header_hero_content .header_sub_title {
       font-size: 24px; } }
