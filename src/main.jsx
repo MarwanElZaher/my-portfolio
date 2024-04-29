@@ -7,9 +7,7 @@ import './assets/css/slick.css'
 import './assets/css/default.css'
 import './assets/css/lineicons.css'
 import './assets/css/bootstrap.min.css'
-import './scss/_testimonial.scss'
-import './scss/_about.scss'
-// import './scss/lineicons.scss'
+
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
     <App />
